@@ -16,13 +16,10 @@ This title reflects the essence of the project, which involves using data-driven
 The project addresses the critical issue of stress among medical doctors and its implications for the healthcare industry. It aims to predict and analyze stress levels, provide insights, and offer scalable models for healthcare systems.
 
 ## Inspiration
-The inspiration for this project comes from the challenging lives led by medical professionals and the need for proper resource allocation.
+The doctors and interns around me seemed to have a hectic life with bad work life balance often due to high workload. I believed that proper allocation of resources would lessen their burden and would allow them to give better quality of service. And hence this project.
 
 ## What It Does
-- Collects and analyzes data related to stress levels among medical doctors.
-- Predicts and identifies the prevalence and patterns of stress and its associated risk factors.
-- Provides actionable insights to healthcare systems for resource allocation and interventions.
-- Incorporates geographical data for more comprehensive insights.
+Collect and analyze data related to stress levels among medical doctors. Identify the prevalence and patterns of stress and its associated risk factors. Develop predictive models to determine the likelihood of doctors experiencing stress. Provide actionable insights to healthcare systems for resource allocation and interventions. Incorporate location data to offer a more comprehensive view, from countries to states. Ultimately, the project seeks to reduce stress among medical doctors, improve healthcare quality, and enhance the overall well-being of healthcare professionals.
 
 ## Tech Stack
 - **Python**
