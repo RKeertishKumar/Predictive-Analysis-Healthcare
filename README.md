@@ -35,7 +35,18 @@ python ml_ran_for.py
 ## Analysis after using Random Forest
 ![image](https://github.com/RKeertishKumar/Predictive-Stress-Analysis-Healthcare/assets/141417594/81c7139b-107f-44b2-bca2-7119383bea44)
 
+## Data Preprocessing
+```shell
+python prepro.py
+```
+Which does the hot encoding and scaling and fixing null values.
 
+## Data Visualization
+Available in the images folder.
+To run it again, 
+```shell
+python Datavis.py
+```
 ## Tech Stack
 - **Python**
 - Libraries and Frameworks: pandas, Matplotlib, Seaborn, Scikit-Learn, Random Forest
