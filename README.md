@@ -2,14 +2,20 @@
 This title reflects the essence of the project, which involves using data-driven techniques to predict and analyze stress levels among medical doctors. It conveys the focus on data analysis and predictive modeling to address the issue of stress in the healthcare profession.
 
 ## Table of Contents
-- [Overview](#overview)
-- [Inspiration](#inspiration)
-- [What It Does](#what-it-does)
-- [Tech Stack](#tech-stack)
-- [Challenges Faced](#challenges-faced)
-- [Repository Name](#repository-name)
-- [Project Elevator Pitch](#elevator-pitch)
-- [How It's Built](#how-its-built)
+- [Project Overview](#overview)
+- [Project Inspiration](#inspiration)
+- [Project Objectives](#what-it-does)
+- [Technical Stack](#tech-stack)
+- [Challenges Encountered](#challenges-faced)
+- [Repository Information](#repository-name)
+- [Elevator Pitch](#elevator-pitch)
+- [Technical Implementation](#how-its-built)
+- [Setup and Dependencies](#setup)
+- [Data Preprocessing](#data-preprocessing)
+- [Data Visualization](#data-visualization)
+- [Random Forest Predictive Analysis](#random-forest-predictive-analysis)
+- [Analysis Results](#analysis-results)
+
 
 
 ## Overview
