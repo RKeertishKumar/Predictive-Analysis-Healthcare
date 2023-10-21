@@ -23,9 +23,9 @@ Collect and analyze data related to stress levels among medical doctors. Identif
 
 ## Tech Stack
 - **Python**
-- Libraries and Frameworks: pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch
+- Libraries and Frameworks: pandas, Matplotlib, Seaborn, Scikit-Learn, Random Forest
 - **Excel** for data manipulation
-- **Machine Learning**: PyTorch
+- **Machine Learning**: Random Forest
 
 ## Challenges Faced
 - Data Quality
@@ -45,7 +45,7 @@ In a world where medical doctors face unprecedented levels of stress, our projec
 
 ## How It's Built
 - **Python**: The core programming language for data analysis and machine learning.
-- **Libraries and Frameworks**: pandas, Matplotlib, Seaborn, Scikit-Learn, and PyTorch for data manipulation, visualization, analysis, and machine learning.
+- **Libraries and Frameworks**: pandas, Matplotlib, Seaborn, Scikit-Learn, and Random Forest for data manipulation, visualization, analysis, and machine learning.
 - **Excel**: Used for data manipulation and initial data exploration.
-- **Machine Learning**: PyTorch was applied to create a predictive model.
+- **Machine Learning**: Random Forest was applied to create a predictive model.
 
