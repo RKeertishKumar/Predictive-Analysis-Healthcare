@@ -15,11 +15,26 @@ This title reflects the essence of the project, which involves using data-driven
 ## Overview
 The project addresses the critical issue of stress among medical doctors and its implications for the healthcare industry. It aims to predict and analyze stress levels, provide insights, and offer scalable models for healthcare systems.
 
+## Setup
+```shell
+pip install -r requirements.txt
+```
+To download all the dependencies
+
 ## Inspiration
 The doctors and interns around me seemed to have a hectic life with bad work life balance often due to high workload. I believed that proper allocation of resources would lessen their burden and would allow them to give better quality of service. And hence this project.
 
 ## What It Does
 Collect and analyze data related to stress levels among medical doctors. Identify the prevalence and patterns of stress and its associated risk factors. Develop predictive models to determine the likelihood of doctors experiencing stress. Provide actionable insights to healthcare systems for resource allocation and interventions. Incorporate location data to offer a more comprehensive view, from countries to states. Ultimately, the project seeks to reduce stress among medical doctors, improve healthcare quality, and enhance the overall well-being of healthcare professionals.
+
+## To run the code for predictive analysis using random forest
+```shell
+python ml_ran_for.py
+```
+
+## Analysis after using Random Forest
+![image](https://github.com/RKeertishKumar/Predictive-Stress-Analysis-Healthcare/assets/141417594/81c7139b-107f-44b2-bca2-7119383bea44)
+
 
 ## Tech Stack
 - **Python**
