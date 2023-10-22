@@ -1,6 +1,5 @@
 # Predictive-Analysis-Healthcare
-This title reflects the essence of the project, which involves using data-driven techniques to predict and analyze stress levels among medical doctors. It conveys the focus on data analysis and predictive modeling to address the issue of stress in the healthcare profession.
-
+Revolutionize healthcare resource allocation with predictive analysis, leveraging telemedicine to efficiently address the pressing needs of underserved regions.
 ## Table of Contents
 - [Project Overview](#overview)
 - [Project Inspiration](#inspiration)
