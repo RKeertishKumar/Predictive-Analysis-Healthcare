@@ -40,6 +40,10 @@ python ml_ran_for.py
 ## Analysis after using Random Forest
 ![image](https://github.com/RKeertishKumar/Predictive-Stress-Analysis-Healthcare/assets/141417594/81c7139b-107f-44b2-bca2-7119383bea44)
 
+## Dataset taken from:
+
+[The major worldwide stress of healthcare professionals during the first wave of the COVID-19 pandemic – the international COVISTRESS survey | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257840)
+
 ## Data Preprocessing
 ```shell
 python prepro.py
@@ -48,6 +52,9 @@ Which does the hot encoding and scaling and fixing null values.
 
 ## Data Visualization
 Available in the images folder.
+![image](https://github.com/RKeertishKumar/Predictive-Analysis-Healthcare/assets/141417594/cc375c80-070b-4762-b0c1-a2e3b7e4a422)
+![image](https://github.com/RKeertishKumar/Predictive-Analysis-Healthcare/assets/141417594/2067c87b-90d9-47ca-902a-f13809d5eae5)
+
 To run it again, 
 ```shell
 python Datavis.py
