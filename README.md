@@ -79,7 +79,7 @@ python Datavis.py
 - **Repository Name**: Predictive-Analysis-Healthcare
 
 ## Project Elevator Pitch
-In a world where medical doctors face unprecedented levels of stress, our project uses data-driven techniques to comprehensively understand stress and its associated risk factors. It provides actionable insights to enhance the quality of healthcare and the well-being of medical professionals.
+Revolutionize healthcare resource allocation with predictive analysis, leveraging telemedicine to efficiently address the pressing needs of underserved regions.
 
 ## How It's Built
 - **Python**: The core programming language for data analysis and machine learning.
